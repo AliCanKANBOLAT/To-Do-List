@@ -1,0 +1,16 @@
+#infoList > li {
+  font-size: 30px;
+  color: #e67e22;
+}
+
+@media screen and (max-width: 450px) {
+  #invisibleButton {
+    width: 35%;
+  }
+  #addButton {
+    width: 25%;
+  }
+  #clearButton {
+    width: 30%;
+  }
+}/*# sourceMappingURL=style.css.map */
