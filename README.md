@@ -27,7 +27,7 @@ The project is structured as follows:
 2. Open the `index.html` file in a web browser.
 3. Use the input field to add new tasks.
 4. Click on a task to mark it as completed.
-5. Click on the "Invisible" button to apply an animation to completed tasks.
+5. Click on the "Casper" button to apply an animation to completed tasks.
 6. Click on the "Clear All" button to remove all tasks from the list.
 
 ## Libraries Used
